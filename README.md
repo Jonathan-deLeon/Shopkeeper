@@ -1,0 +1,2 @@
+# Shopkeeper
+Python shopkeeping simulator
