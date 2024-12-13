@@ -604,9 +604,6 @@ def day_summary(day_start_silver, day_start_stock_value):
 
     clear_console()
 
-    print((silver - day_start_silver))
-    print((get_stock_value() - day_start_stock_value))
-
     print("------------ Summary ------------")
     sleep(0.3)
     print(f"Day {day} complete. You {made_or_lost} {abs(profit)} silver trading today.")
