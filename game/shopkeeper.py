@@ -20,7 +20,7 @@ stats = {"Customers Served": 0,
         "Items sold": 0,
         "Discounts given": 0,
         "Upcharges attempted": 0,
-        "Upcharges succeeded ": 0,
+        "Upcharges succeeded": 0,
         "Haggles agreed upon": 0,
         "Haggles rejected": 0,
         "Loot bought": 0
